@@ -1,1 +1,1 @@
-# Console Applications - Python
+# Simple Python Applications
