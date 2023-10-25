@@ -1,1 +1,1 @@
-# Simple Python Applications
+# Python Applications
